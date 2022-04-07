@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003795890663",
+    "project_id": "feevalejava2022",
+    "storage_bucket": "feevalejava2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003795890663:android:0f545ac9d944b7d7e07d42",
+        "android_client_info": {
+          "package_name": "com.example.appagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003795890663-srlpb5r4uc7oe93f0mnd1u639vmqavd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appagenda",
+            "certificate_hash": "53ec5a50585ae5d6a5bc3d3ade3cbdb67f0a275b"
+          }
+        },
+        {
+          "client_id": "1003795890663-ptk80qaecoglmsvqvirs7697oe0v1tnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ64YAjWWUb158cQqFnr3gX3HOeFsy0vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003795890663-ptk80qaecoglmsvqvirs7697oe0v1tnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
